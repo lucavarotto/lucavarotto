@@ -6,7 +6,7 @@ Data Scientist
 
 M.Sc. Statistics candidate at UniPD, with a strong focus on Machine Learning and Data Science.
 
-* 🌍  I'm based in Padua, Italy <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" width="20" height="20" style="vertical-align: bottom; display: inline-block;" alt="Italy Flag">
+* 🌍  I'm based in Padua, Italy <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f1ee-1f1f9.svg" alt="Italy Flag" width="16" align="center">
 * 🌐  Check out my website at [lucavarotto.github.io](https://lucavarotto.github.io)
 * ✉️  You can contact me at [lc.varotto@gmail.com](mailto:lc.varotto@gmail.com)
 
