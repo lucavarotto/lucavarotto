@@ -1,4 +1,4 @@
-Hi 👋 My name is Luca Varotto
+Hi, my name is Luca Varotto
 =====================================================================================================================================
 
 Data Scientist
@@ -6,7 +6,8 @@ Data Scientist
 
 M.Sc. Statistics candidate at UniPD, with a strong focus on Machine Learning and Data Science.
 
-* 🌍  I'm based in Padua
+* 🌍  I'm based in Padua, Italy 🇮🇹
+* 🌐  Check out my website at [lucavarotto.github.io](https://lucavarotto.github.io)
 * ✉️  You can contact me at [lc.varotto@gmail.com](mailto:lc.varotto@gmail.com)
 
 <p align="left">
@@ -16,13 +17,3 @@ M.Sc. Statistics candidate at UniPD, with a strong focus on Machine Learning and
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/lucavarotto" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/lucavarotto" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p align="left">
-  <a href="https://github.com/lucavarotto"><img src="https://github-readme-stats.vercel.app/api?username=lucavarotto&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="lucavarotto's GitHub stats" /></a>
-  <a href="https://github.com/lucavarotto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucavarotto&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="lucavarotto's GitHub streak" /></a>
-  <a href="https://github.com/lucavarotto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucavarotto&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>
-</p>
