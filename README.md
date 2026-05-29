@@ -1,8 +1,5 @@
-Hi, my name is Luca Varotto
+Hi, I'm Luca Varotto
 =====================================================================================================================================
-
-Data Scientist
---------------
 
 M.Sc. Statistics candidate at UniPD, with a strong focus on Machine Learning and Data Science.
 
