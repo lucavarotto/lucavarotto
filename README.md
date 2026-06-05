@@ -19,4 +19,4 @@ M.Sc. Statistics candidate at UniPD, with a strong focus on Machine Learning and
 
 ### 📊 Statistiche GitHub
 
-[![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=lucavarotto&layout=compact&theme=transparent&hide_border=true&langs_count=5)](https://github.com/lucavarotto)
+[![I miei linguaggi più usati](![Top Languages](https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=lucavarotto))](https://github.com/lucavarotto)
