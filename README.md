@@ -13,6 +13,7 @@ I like problems where a statistical model has to survive contact with real, mess
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Vinted_scraper_and_business_analysis](https://github.com/lucavarotto/Vinted_scraper_and_business_analysis) | A consulting framework built on ~2k scraped Vinted listings and Google Trends: mixed-effects models, XGBoost, ordinal probit, market basket and network analysis | Python, R |
+| [Tesi_triennale](https://github.com/lucavarotto/Tesi_triennale) | My B.Sc. thesis: an Expected Goals model over 52,792 StatsBomb shots, where seven classifiers meet four ways of balancing a 10.7% response, and the estimated xG become Expected Points by Monte Carlo | R, Python |
 | [Cluster_based_relevance_feedback](https://github.com/lucavarotto/Cluster_based_relevance_feedback) | A cluster-based alternative to BM25 using a k-NN approach; the gain in MAP holds under both a paired t-test and a Wilcoxon test | Python |
 | [Text_mining_unipd_courses](https://github.com/lucavarotto/Text_mining_unipd_courses) | Scrapes the whole bachelor catalogue of the University of Padua and predicts the School of a course from its syllabus, with a classification tree and a neural network | Python, R |
 | [BiomassProduction](https://github.com/lucavarotto/BiomassProduction) | How cultivation factors drive the growth of the cyanobacterium *Nostoc* over time, from the optical density of a continuous culture | R |
@@ -24,7 +25,9 @@ I like problems where a statistical model has to survive contact with real, mess
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="rlang" title="rlang" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
 
-Day to day that means `tidyverse`, `tm` and `tidymodels` in R, `pandas`, `NumPy` and `BeautifulSoup` in Python, and LaTeX for everything that gets written up.
+Day to day that means `tidyverse`, `tidymodels`, `glmnet`, `rpart`, `randomForest` and `tm` in R, `pandas`, `NumPy`, `scikit-learn`, `imbalanced-learn` and `BeautifulSoup` in Python, and LaTeX for everything that gets written up.
+
+On the methods side: linear models and variable selection, regularisation with ridge and lasso, GAMs, splines and local regression, MARS, trees, bagging, random forests, boosting, SVMs, neural networks and conformal prediction. My B.Sc. thesis leaned on two of them in particular, resampling for unbalanced classes — SMOTE-NC against plain over and undersampling — and Monte Carlo simulation to turn Expected Goals into Expected Points.
 
 ### Socials
 
