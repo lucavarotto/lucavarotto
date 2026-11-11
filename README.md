@@ -12,11 +12,11 @@ I like problems where a statistical model has to survive contact with real, mess
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [vinted-scraper-and-business-analysis](https://github.com/lucavarotto/vinted-scraper-and-business-analysis) | A consulting framework built on ~2k scraped Vinted listings and Google Trends: mixed-effects models, XGBoost, ordinal probit, market basket and network analysis | Python, R |
-| [cluster_based_relevance_feedback](https://github.com/lucavarotto/cluster_based_relevance_feedback) | A cluster-based alternative to BM25 using a k-NN approach; the gain in MAP holds under both a paired t-test and a Wilcoxon test | Python |
+| [Vinted_scraper_and_business_analysis](https://github.com/lucavarotto/Vinted_scraper_and_business_analysis) | A consulting framework built on ~2k scraped Vinted listings and Google Trends: mixed-effects models, XGBoost, ordinal probit, market basket and network analysis | Python, R |
+| [Cluster_based_relevance_feedback](https://github.com/lucavarotto/Cluster_based_relevance_feedback) | A cluster-based alternative to BM25 using a k-NN approach; the gain in MAP holds under both a paired t-test and a Wilcoxon test | Python |
 | [Text_mining_unipd_courses](https://github.com/lucavarotto/Text_mining_unipd_courses) | Scrapes the whole bachelor catalogue of the University of Padua and predicts the School of a course from its syllabus, with a classification tree and a neural network | Python, R |
 | [BiomassProduction](https://github.com/lucavarotto/BiomassProduction) | How cultivation factors drive the growth of the cyanobacterium *Nostoc* over time, from the optical density of a continuous culture | R |
-| [strassen_algorithm](https://github.com/lucavarotto/strassen_algorithm) | Three ways to run Strassen's matrix multiplication on matrices of any shape, benchmarked against NumPy | Python |
+| [StrassenAlgorithm](https://github.com/lucavarotto/StrassenAlgorithm) | Three ways to run Strassen's matrix multiplication on matrices of any shape, benchmarked against NumPy | Python |
 
 ### Technologies
 
