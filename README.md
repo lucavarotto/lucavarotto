@@ -13,11 +13,11 @@ I like problems where a statistical model has to survive contact with real, mess
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [Vinted_scraper_and_business_analysis](https://github.com/lucavarotto/Vinted_scraper_and_business_analysis) | A consulting framework built on ~2k scraped Vinted listings and Google Trends: mixed-effects models, XGBoost, ordinal probit, market basket and network analysis | Python, R |
-| [Tesi_triennale](https://github.com/lucavarotto/Tesi_triennale) | My B.Sc. thesis: an Expected Goals model over 52,792 StatsBomb shots, where seven classifiers meet four ways of balancing a 10.7% response, and the estimated xG become Expected Points by Monte Carlo | R, Python |
+| [Expected_goals_and_points](https://github.com/lucavarotto/Expected_goals_and_points) | My B.Sc. thesis: an Expected Goals model over 52,792 StatsBomb shots, where seven classifiers meet four ways of balancing a 10.7% response, and the estimated xG become Expected Points by Monte Carlo | R, Python |
 | [Cluster_based_relevance_feedback](https://github.com/lucavarotto/Cluster_based_relevance_feedback) | A cluster-based alternative to BM25 using a k-NN approach; the gain in MAP holds under both a paired t-test and a Wilcoxon test | Python |
 | [Text_mining_unipd_courses](https://github.com/lucavarotto/Text_mining_unipd_courses) | Scrapes the whole bachelor catalogue of the University of Padua and predicts the School of a course from its syllabus, with a classification tree and a neural network | Python, R |
-| [BiomassProduction](https://github.com/lucavarotto/BiomassProduction) | How cultivation factors drive the growth of the cyanobacterium *Nostoc* over time, from the optical density of a continuous culture | R |
-| [StrassenAlgorithm](https://github.com/lucavarotto/StrassenAlgorithm) | Three ways to run Strassen's matrix multiplication on matrices of any shape, benchmarked against NumPy | Python |
+| [Biomass_production](https://github.com/lucavarotto/Biomass_production) | How cultivation factors drive the growth of the cyanobacterium *Nostoc* over time, from the optical density of a continuous culture | R |
+| [Strassen_algorithm](https://github.com/lucavarotto/Strassen_algorithm) | Three ways to run Strassen's matrix multiplication on matrices of any shape, benchmarked against NumPy | Python |
 
 ### Technologies
 
